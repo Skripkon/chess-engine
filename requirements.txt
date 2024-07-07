@@ -2,3 +2,4 @@ chess==1.10.0
 numpy==1.26.4
 tensorflow==2.16.2
 tqdm==4.66.4
+torch==2.3.1
