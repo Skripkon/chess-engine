@@ -2,7 +2,9 @@
 
 A chess engine developed for educational purposes (no cheating).
 
-My model (for details, refer to `model/info.txt`) has shown poor results. Based on my experience, its estimated rating ranges from 400 to 700 ELO.
+models/TORCH_* has shown a performance of approx. 1500 ELO during opening and middlegame.
+
+It failes after about 20 moves. Simple algorithm to detect blunders is needed.
 
 ## Setup:
 
