@@ -16,4 +16,6 @@ It failes after about 20 moves. Simple algorithm to detect blunders is needed.
 
 > The [dataset](https://database.nikonoel.fr/) that I used.
 
-- Refer to ```chess_engine.ipynb``` for further instructions and actions.
+- Refer to ```engines/chess_engine.ipynb``` for further instructions and actions (TensorFlow)
+
+- Or see ```engines/torch/predict```
